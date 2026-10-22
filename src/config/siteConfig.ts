@@ -42,10 +42,10 @@ const pages = resolvePageToggles({
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "Awei's Blog",
+		title: "AWEI 's Blog",
 
-	// 站点副标题
-	subtitle: "Life Will Change",
+		// 站点副标题
+		subtitle: "I love this world",
 
 	// 站点 URL
 	site_url: "https://AwayM0.github.io",

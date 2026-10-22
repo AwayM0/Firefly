@@ -9,30 +9,30 @@ export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/kanata.avif",
 
 	// 名字
-	name: "Awei",
+		name: "AWEI",
 
-	// 个人签名
-	bio: "The game is on.",
+		// 个人签名
+		bio: "定位不明，会吹口琴",
 
-	// 链接配置
-	// 已经预装的图标集：fa7-brands，fa7-regular，fa7-solid，material-symbols，simple-icons
-	// 访问https://icones.js.org/ 获取图标代码，
-	// 如果想使用尚未包含相应的图标集，则需要安装它
-	// `pnpm add @iconify-json/<icon-set-name>`
-	// showName: true 时显示图标和名称，false 时只显示图标
-	links: [
-		{
-			name: "GitHub",
-			icon: "fa7-brands:github",
-			url: "https://github.com/AwayM0",
-			showName: false,
-		},
-		{
-			name: "Email",
-			icon: "fa7-solid:envelope",
-			url: "mailto:awei202206@163.com",
-			showName: false,
-		},
+		// 链接配置
+		// 已经预装的图标集：fa7-brands，fa7-regular，fa7-solid，material-symbols，simple-icons
+		// 访问https://icones.js.org/ 获取图标代码，
+		// 如果想使用尚未包含相应的图标集，则需要安装它
+		// `pnpm add @iconify-json/<icon-set-name>`
+		// showName: true 时显示图标和名称，false 时只显示图标
+		links: [
+			{
+				name: "GitHub",
+				icon: "fa7-brands:github",
+				url: "https://github.com/AwayM0",
+				showName: false,
+			},
+			{
+				name: "Email",
+				icon: "fa7-solid:envelope",
+				url: "mailto:1762936742@qq.com",
+				showName: false,
+			},
 		// {
 		// 	name: "RSS",
 		// 	icon: "fa7-solid:rss",
