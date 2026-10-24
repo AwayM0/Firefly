@@ -26,7 +26,7 @@ seriesOrder: 6
 
 ## 图片
 
-![Firefly](./images/1.avif)
+![Firefly](./images/Disco1.avif)
 
 ## GitHub 仓库卡片
 
